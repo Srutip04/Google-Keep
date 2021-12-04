@@ -12,6 +12,6 @@ ReactDOM.render(
 );
 
 
-// to log results (for example: reportWebVitals
+
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
